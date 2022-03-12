@@ -1,9 +1,10 @@
 *{
     background-color: violet;
     text-align: center;
+    min-height: 100%;
 }
 
-p{
+.imagem{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-shadow: 0.05em 0.05em 0.05em rgb(119, 47, 47);
     margin-top: 2.5em;
@@ -40,21 +41,26 @@ input{
     background-color: rgb(255, 255, 255);
 }
 
-footer{
-    margin-top: 200px;
-    color: blanchedalmond;
-    background-color: black;
-}
-
-.p{
-    font-size: 20px;
-    background-color: black;
-}
-
 button{
     margin-top: 50px;
     margin-bottom: 200px;
     background-color: black;
     color: blanchedalmond;
     font-size: 20px;
+}
+
+.rod{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 5px;
+    height: 50%;
+    line-height: 50%;
+    width: 100%;
+}
+
+.prod{
+    background-color: black;
+    color: blanchedalmond;
+    width: 50%;
 }
