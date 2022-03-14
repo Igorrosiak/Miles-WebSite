@@ -70,8 +70,11 @@ button{
     width: 33.33%;
 }
 
+/* de 2000 a 1420 nao mudara o site, a partir que ultrapassar o limite imposto pelo max width, as configurações
+dentro da chave serão aplicadas */
+
 @media screen and (max-width: 1420px){
 
-    
+
 
 }
