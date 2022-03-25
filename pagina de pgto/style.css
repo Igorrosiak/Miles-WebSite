@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: rgb(192, 192, 192);
+    text-align: center;
+    min-height: 100%;
+}
+
+.imagem{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0.05em 0.05em 0.05em rgb(119, 47, 47);
+    margin-top: 2.5em;
+    font-size: 5em;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    }
+
+.h2{
+    margin-top: 125px;
+    font-size: 35px;
+    font-family: garamond;
+}
+
+.subt{
+    margin-top: 80px;
+    font-size: 35px;
+    font-family: garamond;
+}
+
+.setinha{
+    margin-top: 50px;
+    width: 40px;
+    height: 40px;
+}
+
+.h2prox{
+    margin-top: 150px;
+    font-family: garamond;
+    font-size: 40px;
+    margin-bottom: 50px;
+}
+
+input{
+    font-size: 20px;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.rod{
+    background-color: black;
+    display: flex;
+    box-sizing: border-box;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    margin-top: 50px;
+}
+    
+.prod{
+    background-color: black;
+    color: blanchedalmond;
+    width: 33.33%;
+}
+
+label{
+    font-size: 25px;
+    font-family: garamond;
+}
+
+.h2prox2{
+    margin-top: 150px;
+    font-family: garamond;
+    font-size: 40px;
+}
+
+.proxpg{
+    margin-top: 50px;
+}
+
+h3{
+    font-size: 25px;
+    font-family: garamond;
+    margin-top: 30px;
+}
+
+.linkbol{
+    margin-top: 30px;
+}
+
+.imgqr{
+    margin-top: 30px;
+}
+
