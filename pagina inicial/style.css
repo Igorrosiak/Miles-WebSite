@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(192, 192, 192);
+    text-align: center;
+}
+
+h1{
+    margin-top: 2em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 0.05em 0.05em 0.05em rgb(119, 47, 47);
+    font-size: 5em;
+}
+
+ul{
+    margin-top: 2em;
+    color: black;
+}
+
+.h2{
+    margin-top: 125px;
+    font-size: 35px;
+    font-family: garamond;
+}
