@@ -21,4 +21,7 @@ ul{
     margin-top: 125px;
     font-size: 35px;
     font-family: garamond;
+    margin-left: 3em;
+    color: blue;
+    background-color: black;
 }
