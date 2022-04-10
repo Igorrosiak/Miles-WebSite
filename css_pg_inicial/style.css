@@ -1,29 +1,47 @@
 @import url('https://fonts.googleapis.com/css2?family=Kalam&display=swap');
 
-#cima{
-    text-shadow: 0.05em 0.05em 0.05em rgb(119, 47, 47);    
-    font-size: 2em; 
-    color: rgb(27, 26, 25); 
-    margin-bottom: 7em; 
-    margin-left: 5em; 
-    font-family: 'Kalam', cursive;
+main{
+    width: 88%;
+    height: 100%;
+    text-align: center;
 }
 
-#baixo{
-    text-shadow: 0.05em 0.05em 0.05em rgb(119, 47, 47);    
-    font-size: 2em; 
-    color: rgb(27, 26, 25); 
-    margin-top: 5em; 
-    margin-left: 5em; 
-    font-family: 'Kalam', cursive;
+div > img{
+    margin: auto;
+    width: 20em;
 }
 
-.h2{
-    margin-top: 125px;
-    font-size: 35px;
-    font-family: garamond;
-    margin-left: 3em;
-    color: blue;
-    background-color: black;
+.areaescura{
+    background-color: rgb(88, 88, 88);
+    border: 2em solid rgb(88, 88, 88);
 }
 
+.areaclara{
+    width: 100%;
+    height: 58.8%;
+    display: flex;
+}
+
+.metade1{
+    width: 50%;
+}
+
+.metade2{
+    width: 50%;
+}
+
+.umquarto1{
+    height: 50%;
+}
+
+.umquarto2{
+    height: 50%;
+}
+
+.text{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1.7em;
+    text-shadow: 0.05em 0.05em 0.05em rgba(0, 0, 0, 0.616);
+    color: rgba(109, 107, 5, 0.788);
+}
