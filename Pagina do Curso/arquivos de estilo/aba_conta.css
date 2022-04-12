@@ -1,0 +1,44 @@
+main{
+    width: 40em;
+    height: 90%;
+    background-color: white;
+    margin: auto;
+    border-radius: 6px;
+    box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.137);
+}
+
+main > div > h1{
+    text-align: center;
+    margin-top: 1em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.informacoes{
+    font-size: 0.8em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.informacoes input{
+    width: 50%;
+    text-align: center;
+    color: black;
+    border: 1px solid black;
+}
+
+.informacoes label{
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+button{
+    margin-top: 30px;
+    margin-bottom: 200px;
+    background-color: black;
+    color: blanchedalmond;
+    font-size: 15px;
+    width: 300px;
+    text-align: center;
+}

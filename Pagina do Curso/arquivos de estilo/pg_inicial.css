@@ -41,7 +41,7 @@ div > img{
 .text{
     padding: 50px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 1.7em;
-    text-shadow: 0.05em 0.05em 0.05em rgba(0, 0, 0, 0.616);
+    font-size: 6vh;
+    text-shadow: 0.05em 0.05em 0.05em rgba(0, 0, 0, 0.39);
     color: rgba(109, 107, 5, 0.788);
 }

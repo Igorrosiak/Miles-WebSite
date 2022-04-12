@@ -1,0 +1,15 @@
+main{
+    width: 88%;
+    text-align: center;
+}
+
+iframe{
+    margin: auto;
+}
+
+h1{
+    font-family: garamond;
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 1em;
+}
