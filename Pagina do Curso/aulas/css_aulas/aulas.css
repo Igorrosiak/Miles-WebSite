@@ -5,6 +5,7 @@ main{
 
 iframe{
     margin: auto;
+    margin-bottom: 2em;
 }
 
 h1{
@@ -12,4 +13,14 @@ h1{
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 1em;
+}
+
+ main > a{
+    width: 200px;
+    margin-top: 2em;
+    text-decoration: underline;
+}
+
+main > a:hover{
+    background-color: white;
 }

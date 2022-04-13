@@ -44,4 +44,27 @@ div > img{
     font-size: 6vh;
     text-shadow: 0.05em 0.05em 0.05em rgba(0, 0, 0, 0.39);
     color: rgba(109, 107, 5, 0.788);
+    margin: auto;
+}
+
+@media screen and (max-width: 1250px){
+
+    .text{
+        font-size: 5vh;
+    }
+
+}
+
+@media screen and (max-width: 1075px){
+
+    .text{
+        font-size: 4vh;
+    }
+}
+
+@media screen and (max-width: 920px){
+
+    .text{
+        font-size: 3vh;
+    }
 }

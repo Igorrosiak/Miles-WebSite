@@ -55,3 +55,73 @@ p{
 .botaorecuperarsenha{
     margin-bottom: 18.75%;
 }
+
+@media screen and (max-width: 765px){
+
+    h1{
+        font-size: 3.5em;
+    }
+
+    input{
+        width: 40%;
+    }
+
+    p{
+        font-size: 0.8em;
+    }
+}
+
+@media screen and (max-width: 615px){
+
+    p{
+        font-size: 0.7em;
+    }
+
+}
+
+@media screen and (max-width: 545px){
+
+    p{
+        font-size: 0.6em;
+    }
+
+    h1{
+        font-size: 3em;
+    }
+
+    button{
+        font-size: 1.5em;
+        width: 300px;
+    }
+}
+
+@media screen and (max-width: 465px){
+
+    h1{font-size: 2.5em;}
+
+    input{font-size: 1em;}
+
+    button{
+        width: 230px; 
+        font-size: 1em;
+    }
+
+    p{
+        font-size: 0.55em;
+    }
+}
+
+@media screen and (max-width: 420px){
+
+    p{
+        font-size: 0.5em;
+    }
+}
+
+@media screen and (max-width: 385px){
+
+    p{
+        font-size: 0.4em;
+    }
+
+}
